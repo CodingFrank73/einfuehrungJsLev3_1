@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+.bodoniModa{
+    font-family: 'Bodoni Moda', serif;
+}
+
+.openSans{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.yuseiMagic{
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+body{
+    background: rgba(2, 2, 75, 0.815);
+}
+h1, h2{
+    text-align: center;
+}
+
+form{
+    margin: 30% auto;
+    width: 50%;
+    background-color: lightgrey;
+}
+
+#text{
+    border-radius: 10px;
+}
